@@ -23,3 +23,4 @@ while True:
     else:
         print("Вы угадали! Число попыток:", attempts)
         break
+
